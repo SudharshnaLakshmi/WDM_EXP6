@@ -86,6 +86,6 @@ for result in search_results:
 print("The high rank cosine score is",x)
 ```
 ### Output:
-
+![](ex6.png)
 ### Result:
 Thus Information Retrieval Using Vector Space Model has been implemented successfully implemented in Python.
